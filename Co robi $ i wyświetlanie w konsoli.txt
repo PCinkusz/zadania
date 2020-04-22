@@ -1,0 +1,5 @@
+$ jest uzywany do wstawiania zmiennych do tekstów (nie zabardzo wiem jak to wytłumaczyć ale wiem na czym polega)
+
+Możemy wyświetlić wynik dodawania np wpisując samo działanie: Console.WriteLine(a / b);
+
+
